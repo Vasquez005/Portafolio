@@ -1,4 +1,4 @@
-var aboutMe = ["Full Stack Dev", "Computer Scientist", "Software Developer"];
+var aboutMe = ["Computer Systems Engineering Student", "Software Developer"];
 var p = document.querySelector(".about-me");
 var i = 0,
   isAdding = true,
